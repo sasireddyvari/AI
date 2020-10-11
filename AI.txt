@@ -1,0 +1,30 @@
+Artificial Intelligence(Augmented AI-Today) :John McCarthy
+A branch of Computer Science and simulation of human intelligence in machines that are programmed to think like humans and mimic their actions.
+A Machine which learns by itself by finding the relationships without human intervention as we do is Pure AI.
+Ex: Sophia, AI News Anchor
+
+Augmented Automated Intelligence is achieved by the intersection or combination of
+a)Data Science- Pre-processing, Analysis, Visualization and Prediction.
+b)Statistics
+c)BigData
+d)Natural Language Processing
+e)Machine Learning
+f)DeepLearning
+g)Computer Vision
+h)DevOps
+
+Examples:  
+Alexa,
+Sophia,
+Alpha Go,
+Google Predictive Search Engine ,
+JP Morgan uses AI, ML, image recognition software to analyze legal docs,
+IBM Watson in health care used to diagnose ,DNA analysis, Question Answering Computing system,
+Google's AI Eye Doctor ,
+Social Media heavily rely on AI like offensive speech, terrorist link accounts, auto tagging,
+Virtual Assistants - Google DUPLEX not only repsond calls and book appointments adds human touch also apart from SIRI ,alexa etc,
+SELF driving cars -TESLA,
+Netflix studies personalized movie recommendations for each of its users,
+Gmail Span filtering,
+To spot stars,
+ALL tech giants companies like Google , Tesla,FB,twiiter, infact Netflix also heavily rely on AI.

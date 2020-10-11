@@ -1,0 +1,54 @@
+Regression Metrics:
+    Spearman Correlation
+    Normalized root mean squared error
+    R2 Score
+    Normalized Mean Absolute error
+
+Bar Graph is used to find the Outliers in the data and generally used for discrete variables
+Histogram is used to find skewness and used for Continuous variables
+
+Manually building models is daunting task for Deep Learning Models.So a few API's given by Microsoft
+Azure Cognitive Services:
+  Decision: Make smarter decisions faster
+    Anomaly Detector: Identify potential problems early on.
+    Content Moderator: Detect potentially offensive or unwanted content.
+    Metrics Advisor: Monitor metrics and diagnose issues.
+    Personaliser:Create rich, personalised experiences for every user.
+  Language: Extract meaning from unstructured text
+    Immersive Reader: Help readers of all abilities comprehend text using audio and visual cues.
+    Language Understanding: Build natural language understanding into apps, bots and IoT devices.
+    QnA Maker: Create a conversational question and answer layer over your data.
+    Text Analytics: Detect sentiment, key phrases and named entities.
+    Translator: Detect and translate more than 60 supported languages.
+  Speech: Integrate speech processing into apps and services.
+    Speech to Text: Transcribe audible speech into readable, searchable text.
+    Text to Speech: Convert text to lifelike speech for more natural interfaces.
+    Speech Translation: Integrate real-time speech translation into your apps.
+    Speaker Recognition: Identify and verify the people speaking based on audio.
+  Vision: Identify and analyse content within images, videos and digital ink
+    Computer Vision: To recognize faces ,generate metadata of the images
+       Analyze and describe images: For analyzing the image
+       OCR: To extract text in images
+       handwritten OCR: To extract text
+       Recognizing celebrities and landamarks: recognizing well renowed persons
+    Ink Recognizer: To identify digital ink written on Computer
+    Face: Face Api's to get properties ,emotions ,gender ,compare faces
+       Face Detection
+       Face verification
+       Perceived emotion recognition
+    Video Indexer: To get metadata of the video.
+    Custom Vision: To detect helmets and upload the images related to custom stuff
+    Form Recognizer: To extract data about invoices,pdf based form, context of the document is delivered + OCR
+  Web Search: Find what you’re looking for from the world-wide-web
+    Bing Autosuggest: Help users complete queries faster by adding intelligent type-ahead capabilities.
+    Bing Custom Search: Create a custom search engine with ad-free results.
+    Bing Entity Search: Recognize and classify named entities, and find search results based on them.
+    Bing Image Search: Add a variety of search image options to your app.
+    Bing News Search: Turn any app into a news search resource.
+    Bing Spell Check: Help users identify and fix word breaks, slang, names, homonyms, and brands.
+    Bing Video Search: Add advanced video search features to your app.
+    Bing Visual Search: Enable users to search using images.
+    Bing Web Search: Enable safe, ad-free, location-aware search for your users, surfacing relevant information from web results, images, news, videos, and visuals.
+Azure Bot Service:
+
+    
